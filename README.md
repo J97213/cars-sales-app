@@ -1,5 +1,4 @@
 # cars-sales-app
-Nueva app para comparar los precios de los carros en venta
 Nueva app para explorar, visualizar y comparar los datos de los diversos anuncios de carros en venta.
 
 ## Funcionalidades
