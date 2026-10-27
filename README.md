@@ -21,3 +21,9 @@ Para esta aplicación utilice Python, Streamlite, Pandas, Plotly Express.
 ## Principales hallazgos del EDA
 - Histograma: El resultado más alto que tenemos son 661 carros que cuentan con un kilometraje dentro de 98k a 99.999k. Entre mayor es el kilometraje, menor es la cantidad de carros que hay a la venta.
 -Gráfico dispersión: Los carros con menor kilometraje son los que tienen un precio considerablemente alto, esto también depende del modelo del carro, ya que veo que hay uno que tiene 115km y su precio es de 375k.
+
+## Aplicación desplegada
+
+Puedes consultar la aplicación aquí:
+
+[Ver aplicación en Render](https://cars-sales-app.onrender.com) 
